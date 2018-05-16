@@ -1,0 +1,9 @@
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\bin\Release\netcoreapp1.1\ThriftShop.deps.json
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\bin\Release\netcoreapp1.1\ThriftShop.runtimeconfig.json
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\bin\Release\netcoreapp1.1\ThriftShop.runtimeconfig.dev.json
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\bin\Release\netcoreapp1.1\ThriftShop.dll
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\bin\Release\netcoreapp1.1\ThriftShop.pdb
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\obj\Release\netcoreapp1.1\ThriftShop.AssemblyInfo.cs
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\obj\Release\netcoreapp1.1\ThriftShop.dll
+c:\users\mrhacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\obj\Release\netcoreapp1.1\ThriftShop.pdb
+C:\Users\MrHacker\documents\visual studio 2017\Projects\ThriftShop\ThriftShop\obj\Release\netcoreapp1.1\ThriftShop.csprojResolveAssemblyReference.cache
